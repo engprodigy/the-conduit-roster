@@ -95,7 +95,7 @@ Data Flow Summary for Editing an Article:
 
 ## Running in Gitpod
 
-You can sign up for a free Gitpod account here: https://www.gitpod.io/ using your GitHub account. After you sign up, open the following link to launch a browser-based VSCode environment: https://www.gitpod.io/#https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/tree/rwa/feature-development-v3 . You may refer to the [running in Gitpod](./GITPOD.md) doc for hints about using Gitpod.
+You can sign up for a free Gitpod account here: https://www.gitpod.io/ using your GitHub account. After you sign up, open the following link to launch a browser-based VSCode environment: https://www.gitpod.io/#https://github.com/engprodigy/the-conduit-roster.git . You may refer to the [running in Gitpod](./GITPOD.md) doc for hints about using Gitpod.
 
 This project can also be [run locally](./LOCAL.md); this will require up to 60 minutes of set-up time. We only recommend using this if you have technical impediments in using Gitpod.
 
