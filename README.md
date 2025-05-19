@@ -1,8 +1,8 @@
-# Conduit - AI Augmented Feature Development
+# Conduit
 
 This a full-stack TypeScript application consisting of a NestJS backend and an Angular frontend.
 
-Front End Data Flow
+Conduit is a social blogging site (i.e. a Medium.com clone). It uses a custom API for all requests, including authentication.
 
 The codebase is the `the-conduit-roster` project. It is structured as an Nx monorepo, which houses applications, libraries, and configurations for modular development and scalability. 
 
