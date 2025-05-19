@@ -18,8 +18,23 @@ General functionality:
     Favorite articles
     Follow other users
 
+<p></p>
+<p></p>
+</br>
 
+#Screenshot
+<p></p>
+<p></p>
+</br>
 
+![Screenshot 2025-05-19 011627](https://github.com/user-attachments/assets/eb8c3562-f579-4d73-ba1d-4f15280d08c6)
+
+<p></p>
+<p></p>
+</br>
+<p></p>
+<p></p>
+</br>
 The codebase is the `the-conduit-roster` project. It is structured as an Nx monorepo, which houses applications, libraries, and configurations for modular development and scalability. 
 
 Key technologies include: Angular, NestJS, MikroORM, NodeJS, MySQL, NgRX, REST.
