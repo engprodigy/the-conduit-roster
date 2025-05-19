@@ -4,6 +4,22 @@ This a full-stack TypeScript application consisting of a NestJS backend and an A
 
 Conduit is a social blogging site (i.e. a Medium.com clone). It uses a custom API for all requests, including authentication.
 
+# features
+
+
+
+General functionality:
+
+    Authenticate users via JWT (login/signup pages + logout button on settings page)
+    CRU- users (sign up & settings page - no deleting required)
+    CRUD Articles
+    CR-D Comments on articles (no updating required)
+    GET and display paginated lists of articles
+    Favorite articles
+    Follow other users
+
+
+
 The codebase is the `the-conduit-roster` project. It is structured as an Nx monorepo, which houses applications, libraries, and configurations for modular development and scalability. 
 
 Key technologies include: Angular, NestJS, MikroORM, NodeJS, MySQL, NgRX, REST.
